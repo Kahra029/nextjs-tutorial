@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           My first Nextjs page. You can contact on {' '}
-          <a href="https://twitter.com/kohehan">twitter</a>
+          <a href="https://twitter.com/bfoyrd">twitter</a>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
